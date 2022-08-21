@@ -1,4 +1,4 @@
-# Anotações sobre Git e GitHub :heart:
+# Anotações sobre Git e GitHub :cat:
 
 O **Git** é um sistema de controle de versão de arquivos. Sempre quando alguém disponibiliza sua parte do projeto no Git, ele gerencia as alterações feitas e guarda um histórico. Isso é importante pois se houver algum problema você pode desfazer as alterações e voltar para a versão que estava estável. Desta forma, é possível ter maior controle dos seus projetos. Já o **GitHub** é uma plataforma onde você pode armazenar seus projetos, também chamados de _repositórios_. Outras pessoas podem acessar esses repositórios, alterá-los e comentá-los. O GitHub só suporta o Git, então para você subir seus projetos deve utilizá-lo, mas a integração entre eles é bem fácil. Costuma ser usado como portfólio.
 
@@ -9,3 +9,7 @@ O arquivo está no servidor local, ou seja, no computador do dev. Os documentos 
 ### Termos:
 
 Remote Repository: GitHub; Local Repository; Working Directory; Staging Area; Git; Main/Master; Repositório; Markdown; README.file; etc.
+
+# Anotações sobre HTML5 :heart:
+
+O **HTML** é uma linguagem de marcação assim como o Markdown onde é possível estruturar um site para a internet.
