@@ -9,10 +9,7 @@ O arquivo está no servidor local, ou seja, no computador do dev. Os documentos 
 ### Termos:
 
 Remote Repository: GitHub; Local Repository; Working Directory; Staging Area; Git; Main/Master; Repositório; Markdown; README.file; etc.
-<<<<<<< HEAD
 
 # Anotações sobre HTML5 :heart:
 
 O **HTML** é uma linguagem de marcação assim como o Markdown onde é possível estruturar um site para a internet.
-=======
->>>>>>> aed544929ed1bf18511c340e28de3363de6ba985
