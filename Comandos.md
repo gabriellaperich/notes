@@ -28,4 +28,3 @@ $ echo 'frase' - escreve a frase.
     <body>
     </body>
     /html>
-=======
