@@ -2,7 +2,7 @@
 
 $ git init - inicializa um código (cria a pasta .git)
 $ git add <file> - o código é movido para a área de stage.
-$ git commit -m <name> - com pacta o código.
+$ git commit -m <name> - compacta o código.
 $ git status - mostra o estado em que o cógido está.
 
 $ mkdir - cria uma pasta.
